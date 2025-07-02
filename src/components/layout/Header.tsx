@@ -22,7 +22,7 @@ export const Header = () => {
           {/* Logo */}
           <div className="flex items-center">
             <div className="bg-gradient-to-r from-blue-600 to-purple-600 text-white font-bold text-xl px-3 py-1 rounded-lg">
-              TechVault
+              PrimeSoft
             </div>
           </div>
 

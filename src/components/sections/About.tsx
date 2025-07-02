@@ -62,7 +62,7 @@ export const About = () => {
         {/* Header */}
         <div className="text-center mb-16">
           <div className="inline-flex items-center px-3 py-1 rounded-full bg-blue-100 text-blue-700 text-sm font-medium mb-6">
-            🚀 About TechVault
+            🚀 About PrimeSoft
           </div>
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
             Empowering Businesses Through
@@ -71,7 +71,7 @@ export const About = () => {
             </span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Founded in 2016, TechVault has been at the forefront of digital transformation, 
+            Founded in 2016, PrimeSoft has been at the forefront of digital transformation, 
             helping businesses leverage technology to achieve unprecedented growth and efficiency.
           </p>
         </div>

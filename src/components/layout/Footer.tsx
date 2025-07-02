@@ -1,4 +1,3 @@
-
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Separator } from "@/components/ui/separator";
@@ -68,7 +67,7 @@ export const Footer = () => {
           <div className="lg:col-span-2">
             <div className="flex items-center mb-6">
               <div className="bg-gradient-to-r from-blue-600 to-purple-600 text-white font-bold text-2xl px-4 py-2 rounded-lg">
-                TechVault
+                PrimeSoft
               </div>
             </div>
             
@@ -82,7 +81,7 @@ export const Footer = () => {
             <div className="space-y-3 mb-6">
               <div className="flex items-center gap-3 text-gray-300">
                 <Mail className="h-5 w-5 text-blue-400" />
-                <span>hello@techvault.com</span>
+                <span>hello@primesoft.com</span>
               </div>
               <div className="flex items-center gap-3 text-gray-300">
                 <Phone className="h-5 w-5 text-blue-400" />
@@ -214,7 +213,7 @@ export const Footer = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-6">
         <div className="flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="text-gray-400 text-sm text-center md:text-left">
-            © {currentYear} TechVault. All rights reserved. Built with{" "}
+            © {currentYear} PrimeSoft. All rights reserved. Built with{" "}
             <Heart className="h-4 w-4 text-red-500 inline mx-1" />
             and cutting-edge technology.
           </div>
